@@ -1,0 +1,7 @@
+{
+  "name": "Indian Railways Smart Maintenance & Shadow Block Optimizer",
+  "description": "Enterprise decision-support dashboard for Indian Railways (SIH 2026 PS27) featuring linear track defect logging, Graph-DBSCAN shadow block clustering, XGBoost overrun prediction, and interactive time-expanded train string charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
